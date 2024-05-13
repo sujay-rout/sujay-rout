@@ -1,4 +1,4 @@
-# Sujay Rout - Portfolio
+# Sujay Rout
 
 ## Introduction
 Hello! I'm Sujay Rout, a passionate and dedicated individual with a keen interest in technology and innovation. I am enthusiastic about exploring new technologies, solving complex problems, and constantly learning and growing in the field of computer science. My goal is to leverage my skills and experiences to make meaningful contributions to the tech industry and society as a whole.
@@ -21,12 +21,6 @@ Hello! I'm Sujay Rout, a passionate and dedicated individual with a keen interes
 ## Projects
 ### Portfolio Website
 - **Description:** Developed a responsive portfolio website to showcase my skills, projects, and experiences.
-- **GitHub Repository:** [Portfolio Website Repository](https://github.com/Sujayroutcs/portfolio)
-- **Live Site:** [Sujay Rout Portfolio](https://sujayroutcs.github.io/portfolio/)
-
-### ChatGPT Chatbot
-- **Description:** Built a chatbot using OpenAI's GPT-3 technology to provide assistance and answer user queries.
-- **GitHub Repository:** [ChatGPT Chatbot Repository](https://github.com/Sujayroutcs/chatgpt-chatbot)
 
 ## Education
 - **Bachelor of Technology in Computer Science & Engineering**
