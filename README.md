@@ -58,5 +58,5 @@ Hello! I'm Sujay Rout, a passionate and dedicated individual with a keen interes
 ## Contact Information
 - **Email:** sujayrout.cs@gmail.com
 - **LinkedIn:** [linkedin.com/in/sujay-rout](https://www.linkedin.com/in/sujay-rout)
-- **GitHub:** [github.com/Sujayroutcs](https://github.com/Sujayroutcs)
+- **GitHub:** [github.com/sujay-rout](https://github.com/sujay-rout)
 # sujay-rout
