@@ -1,5 +1,4 @@
-# Hello, I'm Sujay Rout
-![Sujay Rout](profile_picture.png)
+# Sujay Rout - Portfolio
 
 ## Introduction
 Hello! I'm Sujay Rout, a passionate and dedicated individual with a keen interest in technology and innovation. I am enthusiastic about exploring new technologies, solving complex problems, and constantly learning and growing in the field of computer science. My goal is to leverage my skills and experiences to make meaningful contributions to the tech industry and society as a whole.
@@ -59,5 +58,5 @@ Hello! I'm Sujay Rout, a passionate and dedicated individual with a keen interes
 ## Contact Information
 - **Email:** sujayrout.cs@gmail.com
 - **LinkedIn:** [linkedin.com/in/sujay-rout](https://www.linkedin.com/in/sujay-rout)
-- **GitHub:** [github.com/Sujayroutcs](https://github.com/Sujayroutcs)
+- **GitHub:** [github.com/sujay-rout](https://github.com/sujay-rout)
 # sujay-rout
