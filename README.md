@@ -1,4 +1,5 @@
-# Sujay Rout - Portfolio
+# Hello, I'm Sujay Rout
+![Sujay Rout](profile_picture.png)
 
 ## Introduction
 Hello! I'm Sujay Rout, a passionate and dedicated individual with a keen interest in technology and innovation. I am enthusiastic about exploring new technologies, solving complex problems, and constantly learning and growing in the field of computer science. My goal is to leverage my skills and experiences to make meaningful contributions to the tech industry and society as a whole.
@@ -21,12 +22,6 @@ Hello! I'm Sujay Rout, a passionate and dedicated individual with a keen interes
 ## Projects
 ### Portfolio Website
 - **Description:** Developed a responsive portfolio website to showcase my skills, projects, and experiences.
-- **GitHub Repository:** [Portfolio Website Repository](https://github.com/Sujayroutcs/portfolio)
-- **Live Site:** [Sujay Rout Portfolio](https://sujayroutcs.github.io/portfolio/)
-
-### ChatGPT Chatbot
-- **Description:** Built a chatbot using OpenAI's GPT-3 technology to provide assistance and answer user queries.
-- **GitHub Repository:** [ChatGPT Chatbot Repository](https://github.com/Sujayroutcs/chatgpt-chatbot)
 
 ## Education
 - **Bachelor of Technology in Computer Science & Engineering**
@@ -41,7 +36,7 @@ Hello! I'm Sujay Rout, a passionate and dedicated individual with a keen interes
 
 ## Work Experience
 ### Technician Apprentice
-- **Company:** SAIL IISCO Steel Plant, Burnpur
+- **Company:** Steel Authority of India Limited - IISCO Steel Plant, Burnpur
 - **Duration:** March 2023 – March 2024
 - **Responsibilities:**
   - Coordinated appointments and meetings, ensuring seamless communication across departments.
