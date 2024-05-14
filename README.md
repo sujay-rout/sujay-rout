@@ -1,4 +1,7 @@
-# Sujay Rout - Portfolio
+# Hello, I'm Sujay Rout
+<div align="right">
+  <img src="profile_picture.png" alt="Sujay Rout" width="200">
+</div>
 
 ## Introduction
 Hello! I'm Sujay Rout, a passionate and dedicated individual with a keen interest in technology and innovation. I am enthusiastic about exploring new technologies, solving complex problems, and constantly learning and growing in the field of computer science. My goal is to leverage my skills and experiences to make meaningful contributions to the tech industry and society as a whole.
